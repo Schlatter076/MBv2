@@ -1,0 +1,5 @@
+L74HC595.c:12:6:Init_74HC595	24	static
+L74HC595.c:37:6:HC595_Send_Byte	32	static
+L74HC595.c:66:6:ledON	0	static
+L74HC595.c:75:6:ledOFF	0	static
+L74HC595.c:84:6:ledBLINK	0	static

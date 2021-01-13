@@ -25,6 +25,7 @@
 #define APP_SERVER_ADDR  0x0803F840
 //8字节设备编号  1字节是否写入编号  1字节是否在线更新程序
 
+
 #define IGNORE_LOCK_ADDR  0x0803FF00
 extern unsigned char IgnoreLock[6];
 

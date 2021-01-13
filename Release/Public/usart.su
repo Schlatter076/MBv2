@@ -1,3 +1,0 @@
-usart.c:23:6:USART1_Init	96	static
-usart.c:256:4:hexStr2Byte	0	static
-usart.c:111:6:USART1_IRQHandler	144	static
